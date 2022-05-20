@@ -1,24 +1,7 @@
-# README
+# Rails Engine Lite: 2201 - Back End Program - Turing School of Software and Design
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img width="1010" alt="Rails-Engine-Tables-Relationships" src="https://user-images.githubusercontent.com/83252572/169542019-13ae63db-d16c-4088-8a3a-c22e8f18cd08.png">
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
